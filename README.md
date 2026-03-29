@@ -20,6 +20,12 @@ SQL → data analysis
 
 Tableau → data visualization and dashboard
 
+## Data Cleaning
+
+* Used Excel to clean the dataset, including removing unnecessary columns and standardizing formatting.
+* The first tab contains the full cleaned dataset.
+* The rest of the tabs contain exported SQL query results, which were then imported into Tableau for visualization.
+
 ## Business Questions
 
 I focused on answering a few key questions:
